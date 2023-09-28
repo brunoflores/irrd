@@ -29,7 +29,7 @@ setuptools.setup(
         'IPy==1.01',
         'ordered-set==4.1.0',
         'beautifultable==0.8.0',
-        'PyYAML==6.0',
+        'PyYAML==6.0.1',
         'datrie==0.8.2',
         'setproctitle==1.3.2',
         'python-daemon==2.3.2',
